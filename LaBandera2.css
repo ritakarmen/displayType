@@ -1,0 +1,21 @@
+		
+		div{
+		display: inline-block;	
+		padding: 1px 20px 30px 3px;
+		margin: 5px;
+		height: 100px;
+		width: 150px;
+		text-align: left;
+		}
+		#caja1{
+		text-align: left;
+		background-color: yellow;
+		}
+	 	#caja2{
+	 	text-align: left;
+		background-color: red;
+		}
+		 #caja3{
+		text-align: left;
+		background-color: yellow;
+		}

@@ -1,0 +1,32 @@
+		*{
+		 	margin: 0px;
+		 	padding: 0px;
+		 }
+		#caja1{
+		width: 600px;
+		height: 100px;
+		border: 1px solid yellow;
+		padding: 5px;
+		margin: 0px;
+		text-align: left;
+		background-color: yellow;
+		}
+	 	#caja2{
+		width: 600px;
+		height: 100px;
+		border: 1px solid black;
+		padding: 5px;
+		margin: 0px;
+		text-align: left;
+		background-color: red;
+		}
+		 #caja3{
+		width: 600px;
+		height: 100px;
+		border: 1px solid yellow;
+		padding: 5px;
+		margin: 0px;
+		text-align: left;
+		background-color: yellow;
+		}
+	
